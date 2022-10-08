@@ -1,1 +1,1 @@
-# ooer-tcg
+# Ooer trading cards
