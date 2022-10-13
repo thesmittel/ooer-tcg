@@ -16,4 +16,4 @@
 
 Limited Cards only available temporarily (for special occasions) will have drop rates of 1%, 3% and 10% respectively, all other rates will be lowered accordingly.
 
-Detailed progress report and a list of all cards will be can be found (here)[https://docs.google.com/spreadsheets/d/1MVUNCthjpnbzzBqE01OQwF4tilh0wyxLZr2TARqyHgg/edit?usp=sharing]
+Detailed progress report and a list of all cards will be can be found ([here](https://docs.google.com/spreadsheets/d/1MVUNCthjpnbzzBqE01OQwF4tilh0wyxLZr2TARqyHgg/edit?usp=sharing)
