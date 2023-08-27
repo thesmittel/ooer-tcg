@@ -71,6 +71,8 @@ function getRarityMonthly(n) {
 	return 6;
 }
 
+
+1,000.000.000
 function testrun() {
 	let ret = [
 		getRarityDaily((parseInt(process.hrtime.bigint())/100 % 10000)),

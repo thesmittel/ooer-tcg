@@ -2,8 +2,8 @@
 
 ### Progress Report
 
-- Planned cards: 170
-- Finished cards: 8
+- Planned cards: 180
+- Finished cards: 11
 
 ## Plans
 ### Drop rates per category
