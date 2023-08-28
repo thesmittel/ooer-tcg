@@ -1,0 +1,50 @@
+{
+    "draw": {
+        "daily":   [0.5,  0.3,  0.15, 0.04, 0.009, 0.0009, 0.0001],
+        "weekly":  [0.36, 0.32, 0.19, 0.09, 0.03,  0.009,  0.001],
+        "monthly": [0.22, 0.26, 0.24, 0.16, 0.08,  0.03,   0.01]
+    },
+    "packs": {
+        "iron": {
+            "price": 2,
+            "probabilities": [0.60, 0.25, 0.10, 0.04, 0.01, 0.00, 0.00],
+            "limited": 0.01
+        },
+        "bronze": {
+            "price": 7,
+            "probabilities": [0.50, 0.28, 0.12, 0.06, 0.03, 0.01, 0.00],
+            "limited": 0.02
+        },
+        "silver": {
+            "price": 15,
+            "probabilities": [0.25, 0.35, 0.20, 0.12, 0.05, 0.02, 0.01],
+            "limited": 0.04
+        },
+        "gold": {
+            "price": 35,
+            "probabilities": [0.10, 0.30, 0.24, 0.17, 0.12, 0.05, 0.02],
+            "limited": 0.08
+        },
+        "platinum": {
+            "price": 50,
+            "probabilities": [0.00, 0.15, 0.25, 0.25, 0.20, 0.10, 0.05],
+            "limited": 0.12
+        },
+        "diamond": {
+            "price": 80,
+            "probabilities": [0.00, 0.00, 0.15, 0.25, 0.30, 0.20, 0.10],
+            "limited": 0.20
+        }
+    },
+    "selling": [1, 3, 6, 12, 24, 48, 60, 120],
+    "category": {
+        "a": "Common",
+        "b": "Uncommon",
+        "c": "Rare",
+        "d": "Very Rare",
+        "e": "Ancient",
+        "f": "Mythical",
+        "g": "Legendary",
+        "x": "Limited Edition"
+    }
+}

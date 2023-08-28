@@ -1,0 +1,11 @@
+{
+    "user_id": {
+        "__type": "dummy",
+        "lastDaily": 0,
+        "lastWeekly": 0,
+        "lastMonthly": 0,
+        "inventory": {
+            "__cardID": "amount (int)"
+        }
+    }
+}
